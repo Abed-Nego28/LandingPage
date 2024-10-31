@@ -3,7 +3,7 @@ const mysql = require('mysql');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const cors = require('cors');
-require('dotenv').config(); // Assurez-vous que c'est bien tout en haut
+require('dotenv').config(); 
 
 const app = express();
 app.use(cors());
