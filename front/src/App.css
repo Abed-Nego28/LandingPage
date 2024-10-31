@@ -1,4 +1,4 @@
-/* Réinitialisation générale */
+
 * {
   margin: 0;
   padding: 0;
@@ -29,7 +29,7 @@ h1, h2 {
   text-align: center;
 }
 
-/* Styles des boutons */
+
 button {
   background-color: #4CAF50;
   color: white;
@@ -46,7 +46,7 @@ button:hover {
   background-color: #45a049;
 }
 
-/* Styles pour les champs de saisie */
+
 form input[type="text"],
 form input[type="email"],
 form input[type="password"] {
@@ -67,7 +67,7 @@ form input[type="password"]:focus {
   box-shadow: 0 0 5px rgba(76, 175, 80, 0.3);
 }
 
-/* Style pour le lien de bas de formulaire */
+
 .switch-link {
   margin-top: 1rem;
   color: #4CAF50;
